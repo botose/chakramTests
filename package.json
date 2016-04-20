@@ -1,0 +1,15 @@
+{
+  "name": "chakramtests",
+  "version": "1.0.0",
+  "description": "testing the automation-repository api",
+  "main": "repositoryTests.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chakram": "^1.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
