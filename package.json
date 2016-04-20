@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "testing the automation-repository api",
   "main": "repositoryTests.js",
-  "dependencies": {},
+  "dependencies": {
+    "chakram": "^1.3.0",
+    "mocha": "^2.4.5"
+  },
   "devDependencies": {
     "chakram": "^1.3.0"
   },
@@ -11,5 +14,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/botose/chakramTests.git"
+  },
+  "bugs": {
+    "url": "https://github.com/botose/chakramTests/issues"
+  },
+  "homepage": "https://github.com/botose/chakramTests#readme"
 }
